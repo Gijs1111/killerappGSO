@@ -1,4 +1,4 @@
-package sample;
+package CafeClient;
 
 public class Controller {
 }
